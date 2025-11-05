@@ -25,3 +25,7 @@ Mô hình MVC
 
 
 - Cấu hình DB trong file commons/env.php
+
+
+
+git clone https://github.com/minhhducc89/DuAn1_Nhom5.git
