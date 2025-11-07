@@ -26,6 +26,8 @@ Mô hình MVC
 
 - Cấu hình DB trong file commons/env.php
 
+git config --global user.name "Tên của bạn"
+git config --global user.email "email@gmail.com"
 
 
 git clone https://github.com/minhhducc89/DuAn1_Nhom5.git
