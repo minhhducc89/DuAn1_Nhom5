@@ -76,7 +76,7 @@ Cập nhật code mới nhất từ main (khi cần)
 
 Khi branch main có thay đổi, bạn nên cập nhật về branch của mình để tránh lỗi conflict:
 
-git checkout main
-git pull origin main
-git checkout feature/[ten-branch]
-git merge main
+git checkout main  // chuyển sang nhánh main
+git pull origin main   // lấy code hiện tại từ main
+git checkout feature/[ten-branch]  // chuyển về nhánh của mình
+git merge main 
